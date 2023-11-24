@@ -17,7 +17,6 @@ REACT_APP_WEATHER_API=b65b43cc09af164f099fe5a807d56972
 # REACT_APP_WEATHER_API=2a7d6ce7cdd33961673705d6f754d472
 # REACT_APP_WEATHER_API=0009c9f9b5283b47fe0b716582e300e0
 ```
-
 Make sure the __.env__ file is included in your __.gitignore__. (You don't want
 to expose your keys by pushing them to Github!) If you encounter a fetch limit,
 comment out the first API key in the __.env__ file and comment in the second API
